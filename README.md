@@ -2,6 +2,7 @@
 
 A sophisticated application that leverages Natural Language Processing (NLP) and Machine Learning techniques to analyze and compare resumes against job descriptions. This tool provides valuable insights for both recruiters and job seekers by quantifying the match between candidate qualifications and job requirements.
 
+Drive Link - https://drive.google.com/drive/folders/1nstW7VP-R9l6Typ2Vy0rFCKSyPhIWkEg?usp=sharing
 ## Core Functionality
 
 ### 1. Multi-Resume Analysis
